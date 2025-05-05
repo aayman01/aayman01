@@ -2,7 +2,7 @@
 ## 📌About Me
 - 🌱 I’m currently exploring - **Nextjs**
 
-- 💬 Ask me about - **React,Html,Css**
+- 💬 Ask me about - **React,Html,CSS,JavaScript**
 
 - 📫 How to reach me - **ayman.alfi098@gmail.com**
 
