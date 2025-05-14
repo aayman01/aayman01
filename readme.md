@@ -1,4 +1,5 @@
 ![logo](https://github.com/aayman01/aayman01/blob/main/banner.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayman01&label=Profile%20views&color=0e75b6&style=flat" alt="aayman01" /> </p>
 ## 📌About Me
 - 🌱 I’m currently exploring - **Nextjs**
 
