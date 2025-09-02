@@ -11,10 +11,15 @@
 - ⚡ Fun fact - **Sometimes I solve my code problems in my sleep**
 ## 📈Current Stats
 <p align="center"><img align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aayman01&theme=tokyonight&card_width=600&card_height=250" alt="aayman01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayman01&theme=tokyonight&show_icons=true&locale=en&layout=compact&card_width=450&card_height=350" alt="aayman01" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayman01&theme=tokyonight&show_icons=true&locale=en" alt="aayman01" /></p>
 
 ## ⚒️Technologies And Skills
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,javascript,nodejs,express,firebase,mongodb,typescript,nextjs,prisma,framer-motion" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" /><br>
 </div>
+
+
+
 
