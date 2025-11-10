@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayman01&label=Profile%20views&color=0e75b6&style=flat" alt="aayman01" /> </p>
 
 ## 📌About Me
-- 🌱 I’m currently exploring - **Three.js**
+- 🌱 I’m currently exploring - **Nest js**
 
 - 💬 Ask me about - **React,Html,CSS,JavaScript**
 
