@@ -14,7 +14,8 @@
 
 ## ⚒️Technologies And Skills
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,javascript,nodejs,express,firebase,mongodb,typescript,nextjs,prisma,npm,nestjs,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,javascript,nodejs,express,firebase,mongodb,typescript,nextjs,prisma,npm,nestjs" /><br>
+        <img src="https://skillicons.dev/icons?i=postgresql" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,discord,linux" /><br>
 </div>
 
