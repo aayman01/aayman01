@@ -5,10 +5,7 @@
 
 <p align="center">
   <a href="https://aayman-portfolio.vercel.app/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=FFFFFF&center=true&vCenter=true&width=640&lines=I+build+SaaS+%26+multi-tenant+platforms;Headless+e-commerce+on+the+WooCommerce+API;bKash+%2B+Stripe+payment+integrations;SSO+%26+auth+with+NestJS+%2B+PostgreSQL;Fast%2C+SEO-friendly+Next.js+apps" />
-      <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=111111&center=true&vCenter=true&width=640&lines=I+build+SaaS+%26+multi-tenant+platforms;Headless+e-commerce+on+the+WooCommerce+API;bKash+%2B+Stripe+payment+integrations;SSO+%26+auth+with+NestJS+%2B+PostgreSQL;Fast%2C+SEO-friendly+Next.js+apps" />
-    </picture>
+    <img src="assets/terminal.svg" alt="Animated terminal: whoami, my stack, what I have shipped, git push" width="100%" />
   </a>
 </p>
 
