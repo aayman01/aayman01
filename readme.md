@@ -14,6 +14,7 @@
   <a href="https://www.linkedin.com/in/aayman-alfee-rahman"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ayman.alfi098@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://drive.google.com/file/d/1U9zT_jM8RTq2AQZrSeAe6FP61lWSRXCF/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://buymeacoffee.com/aayman"><img src="https://img.shields.io/badge/Buy_me_a_coffee-000000?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee" /></a>
   <img src="https://komarev.com/ghpvc/?username=aayman01&label=Profile%20views&color=000000&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -146,6 +147,10 @@ const aayman = {
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
   <b>Have a SaaS, store or dashboard to build?</b> <a href="mailto:ayman.alfi098@gmail.com">Let's talk →</a>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/aayman"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=aayman&button_colour=000000&font_colour=ffffff&font_family=Inter&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy me a coffee" height="44" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:3a3a3a,100:0d0d0d&section=footer" alt="" width="100%" />
